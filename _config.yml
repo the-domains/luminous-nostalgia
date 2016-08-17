@@ -1,0 +1,14 @@
+layout_spectrum: 0.6134348874911666
+typography_spectrum: 0.3759672630112618
+color:
+  brandStrength: 0.7510716845281422
+  lightness: 0.8615555819123983
+  saturation: 0.8043491614516824
+  rhythmicContrast: 0.4249839268159121
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+name: luminous nostalgia
